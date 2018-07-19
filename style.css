@@ -84,10 +84,10 @@ header{
     background-color:blueviolet;
     float:left;
     width: 40%
-    height:320px;
+    height: 300px;
     padding:10px;
     margin: 20px;
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 5px 5px 5px #888888;
     
 }
 
@@ -117,3 +117,6 @@ h1{
 }
 
     
+#float {
+	color:black;
+}
